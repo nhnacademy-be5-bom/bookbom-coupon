@@ -44,7 +44,6 @@
     </dependencies>
 
     <build>
-        <directory>${project.basedir}/target-coupon</directory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
